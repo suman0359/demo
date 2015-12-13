@@ -1,0 +1,5 @@
+[27-Oct-2015 03:55:59 America/Chicago] PHP Fatal error:  Call to a member function getRequisitionBooks() on a non-object in /home/abdpot/public_html/application/controllers/requisition.php on line 191
+[27-Oct-2015 03:56:29 America/Chicago] PHP Fatal error:  Call to a member function getRequisitionBooks() on a non-object in /home/abdpot/public_html/application/controllers/requisition.php on line 191
+[27-Oct-2015 03:56:31 America/Chicago] PHP Fatal error:  Call to a member function getRequisitionBooks() on a non-object in /home/abdpot/public_html/application/controllers/requisition.php on line 191
+[27-Oct-2015 03:56:32 America/Chicago] PHP Fatal error:  Call to a member function getRequisitionBooks() on a non-object in /home/abdpot/public_html/application/controllers/requisition.php on line 191
+[27-Oct-2015 03:56:33 America/Chicago] PHP Fatal error:  Call to a member function getRequisitionBooks() on a non-object in /home/abdpot/public_html/application/controllers/requisition.php on line 191
